@@ -15,7 +15,7 @@ Whether it's building reproducible pipelines, crafting modular documentation, or
 
 
 
-### 🎯 My Mission
+### I'm looking forward ,
 
 To empower teams and organizations by turning complex data into clear, actionable intelligence. I believe in the power of reproducibility, modularity, and elegant documentation to drive real business value. My goal is to keep learning, keep building, and keep sharing.
 
