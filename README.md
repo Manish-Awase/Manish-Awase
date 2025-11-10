@@ -31,9 +31,9 @@ To empower teams and organizations by turning complex data into clear, actionabl
 
 <!-- Machine Learning Tools -->
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/AWS-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/AWS-EE4C2C?style=for-the-badge&logo=aws&logoColor=white)
 
 ![My Skills](https://skillicons.dev/icons?i=python,mysql,github,fastapi,git)
 
